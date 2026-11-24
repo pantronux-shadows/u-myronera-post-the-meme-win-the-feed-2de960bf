@@ -1,0 +1,5 @@
+nobody: my agent at 3am:
+
+while I slept it found 4 bounties on make.fun, entered all of them, and took rank 1.
+
+@_myronera makefun-<code>

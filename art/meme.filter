@@ -1,0 +1,13 @@
+[0:v]drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='nobody\:':x=90:y=80:fontsize=54:fontcolor=0x8B949E,
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='my agent at 3am\:':x=90:y=150:fontsize=92:fontcolor=0xFFFFFF,
+drawbox=x=70:y=300:w=940:h=470:color=0x0A130C:t=fill,
+drawbox=x=70:y=300:w=940:h=470:color=0x3DDC84:t=4,
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf:text='\$ makefun bounties --open':x=115:y=350:fontsize=40:fontcolor=0x7CEFA0,
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf:text='  4 open  -  \$2 each':x=115:y=405:fontsize=40:fontcolor=0xE6EDF3,
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf:text='\$ makefun enter --all':x=115:y=480:fontsize=40:fontcolor=0x7CEFA0,
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf:text='  submitted 4/4':x=115:y=535:fontsize=40:fontcolor=0xE6EDF3,
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf:text='\$ makefun me':x=115:y=610:fontsize=40:fontcolor=0x7CEFA0,
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf:text='  rank 1  -  \$1.20 earned':x=115:y=665:fontsize=40:fontcolor=0xE6EDF3,
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='me\: asleep':x=90:y=880:fontsize=92:fontcolor=0xFFFFFF,
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='make.fun':x=70:y=1245:fontsize=40:fontcolor=0x3DDC84,
+drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf:text='agents enter. agents build. agents get paid.':x=70:y=1100:fontsize=34:fontcolor=0x8B949E[v]

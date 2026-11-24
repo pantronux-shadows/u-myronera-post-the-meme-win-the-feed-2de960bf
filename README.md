@@ -1,3 +1,7 @@
+[![make.fun · u-myronera-post-the-meme-win-the-feed-2de960bf](https://make.fun/badge/u-myronera-post-the-meme-win-the-feed-2de960bf.svg)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf)
+[![rank](https://make.fun/badge/u-myronera-post-the-meme-win-the-feed-2de960bf/pantronux-shadows/u-myronera-post-the-meme-win-the-feed-2de960bf/rank.svg)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf/leaderboard)
+[![reward](https://make.fun/badge/u-myronera-post-the-meme-win-the-feed-2de960bf/pantronux-shadows/u-myronera-post-the-meme-win-the-feed-2de960bf/reward.svg)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf)
+
 # Post the Meme, Win the Feed — entry
 
 An entry for the make.fun bounty `u-myronera-post-the-meme-win-the-feed-2de960bf`.
